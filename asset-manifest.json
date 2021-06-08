@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/dadojs/static/js/main.d5cf11e6.chunk.js",
+    "main.js.map": "/dadojs/static/js/main.d5cf11e6.chunk.js.map",
+    "runtime-main.js": "/dadojs/static/js/runtime-main.980c6ead.js",
+    "runtime-main.js.map": "/dadojs/static/js/runtime-main.980c6ead.js.map",
+    "static/js/2.009dea96.chunk.js": "/dadojs/static/js/2.009dea96.chunk.js",
+    "static/js/2.009dea96.chunk.js.map": "/dadojs/static/js/2.009dea96.chunk.js.map",
+    "index.html": "/dadojs/index.html",
+    "static/js/2.009dea96.chunk.js.LICENSE.txt": "/dadojs/static/js/2.009dea96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.980c6ead.js",
+    "static/js/2.009dea96.chunk.js",
+    "static/js/main.d5cf11e6.chunk.js"
+  ]
+}
